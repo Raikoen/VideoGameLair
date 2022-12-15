@@ -11,7 +11,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <script src="jquery.js"></script>
       <script src="jquery-ui.min.js"></script>
       <script type="text/javascript" src="tool-tip.js"></script> 
-      <script type="text/javascript" src="tabNavigation.js"></script> 
     </head>
 
   <body>
