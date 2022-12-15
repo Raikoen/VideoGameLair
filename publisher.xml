@@ -1,0 +1,105 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<?xml-stylesheet type="text/xsl" href="publisher.xsl"?>
+
+<VideoGames>
+    <Game id= "1">
+        <Title>The Legend of Zelda: Breath of the Wild</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="2">
+        <Title>Devil May Cry</Title>
+        <Publisher>Microsoft</Publisher>
+        <Platform>XBOX Series S</Platform>
+    </Game>
+    <Game id="3">
+        <Title>Kingdom Hearts 1.5 HD Remix</Title>
+        <Publisher>Sony</Publisher>
+        <Platform>PlayStation 4</Platform>
+    </Game>
+    <Game id="4">
+        <Title>Okami HD</Title>
+        <Publisher>Sony</Publisher>
+        <Platform>PlayStation 4</Platform>
+    </Game>
+    <Game id="5">
+        <Title>Fire Emblem Fates: Rebirth</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>3DS</Platform>
+    </Game>
+    <Game id="6">
+        <Title>Spirit of the North</Title>
+        <Publisher>Sony</Publisher>
+        <Platform>PlayStation 5</Platform>
+    </Game>
+    <Game id="7">
+        <Title>The First Tree</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="8">
+        <Title>DMC: Devil May Cry</Title>
+        <Publisher>Sony</Publisher>
+        <Platform>PlayStation 4</Platform>  
+    </Game>
+    <Game id="9">
+        <Title>Pokemon: Brilliant Diamond</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="10">
+        <Title>Pokemon: Ultra Moon</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>3DS</Platform>
+    </Game>
+    <Game id="11">
+        <Title>The Legend of Zelda: Twilight Princess</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Wii U</Platform>
+    </Game>
+    <Game id="12">
+        <Title>The Legend of Zelda: Link's Awakening</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="13">
+        <Title>Pokemon: Sun</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>3DS</Platform>
+    </Game>
+    <Game id="14">
+        <Title>The First Tree</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="15">
+        <Title>Kingdom Hearts 2.5 HD Remix</Title>
+        <Publisher>Sony</Publisher>
+        <Platform>PlayStation 4</Platform>
+    </Game>
+    <Game id="16">
+        <Title>Devil May Cry 4: Special Edition</Title>
+        <Publisher>Microsoft</Publisher>
+        <Platform>XBOX Series S</Platform>
+    </Game>
+    <Game id="17">
+        <Title>Pokemon Mystery Dungeon: Rescue Team DX</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="18">
+        <Title>The Lost Ember</Title>
+        <Publisher>Sony</Publisher>
+        <Platform>PlayStation 5</Platform>
+    </Game>
+    <Game id="19">
+        <Title>Fox n Forests</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+    <Game id="20">
+        <Title>Devil May Cry 3: Special Edition</Title>
+        <Publisher>Nintendo</Publisher>
+        <Platform>Nintendo Switch</Platform>
+    </Game>
+</VideoGames>
